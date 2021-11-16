@@ -30,9 +30,10 @@ public class ArithemeticGame {
     }
 
     public State getHardState() {
-        return this.meadiumState;
+        return this.hardState;
     }
-
+     
+    
 
 
 }
